@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# C++
+build/
+bin/
+obj/
+
+# OS
+.DS_Store
+Thumbs.db
