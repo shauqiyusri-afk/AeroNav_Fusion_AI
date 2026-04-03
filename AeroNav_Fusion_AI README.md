@@ -77,9 +77,20 @@ Numerical Simulation
 
 ---
 
+## Simulation Results
+
+This section will include trajectory simulations and EKF performance
+analysis once the sensor integration stage is completed.
+
+Current status: Development in progress.
+
+---
+
 ## Future Development
 
 - Real-world sensor data integration
 - Fault detection for navigation systems
 - Satellite navigation simulation
 - Integration with spacecraft attitude systems
+
+
